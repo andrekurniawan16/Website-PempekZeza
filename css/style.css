@@ -1,0 +1,10 @@
+.header {
+  font-family: "Poppins", sans-serif;
+  font-size: 4rem;
+  font-weight: 800;
+  background: linear-gradient(90deg, #ff6600, #ffb347);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  letter-spacing: 4px;
+}
